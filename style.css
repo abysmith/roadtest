@@ -1,0 +1,23 @@
+body{
+    background-color: honeydew;
+    font-family: 'Lobster', cursive;
+    
+}
+
+html{
+    border-style: groove;
+    border-color: cadetblue;
+    border-width: 5pt;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    color: rgb(40, 70, 71);
+}
+
+p {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(40, 70, 71);
+}
